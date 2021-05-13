@@ -300,7 +300,7 @@
       <name>m2e-checkstyle</name>
       <provider>Benson Margulies etc @ m2e-code-quality.github.com</provider>
       <p2>
-        <repositoryUrl>http://m2e-code-quality.github.com/m2e-code-quality/site/latest/</repositoryUrl>
+        <repositoryUrl>http://m2e-code-quality.github.io/m2e-code-quality/site/latest/</repositoryUrl>
         <iuId>com.basistech.m2e.code.quality.checkstyle.feature.feature.group</iuId>
         <iuVersion>1.0.0.201307281919</iuVersion>
         <lifecycleMappingIU>
@@ -324,7 +324,7 @@
       <name>m2e-pmd</name>
       <provider>Benson Margulies etc @ m2e-code-quality.github.com</provider>
       <p2>
-        <repositoryUrl>http://m2e-code-quality.github.com/m2e-code-quality/site/latest/</repositoryUrl>
+        <repositoryUrl>http://m2e-code-quality.github.io/m2e-code-quality/site/latest/</repositoryUrl>
         <iuId>com.basistech.m2e.code.quality.pmd.feature.feature.group</iuId>
         <iuVersion>1.0.0.201307281919</iuVersion>
         <lifecycleMappingIU>
@@ -348,7 +348,7 @@
       <name>m2e-findbugs</name>
       <provider>Bela Eröss etc @ m2e-code-quality.github.com</provider>
       <p2>
-        <repositoryUrl>http://m2e-code-quality.github.com/m2e-code-quality/site/latest/</repositoryUrl>
+        <repositoryUrl>http://m2e-code-quality.github.io/m2e-code-quality/site/latest/</repositoryUrl>
         <iuId>com.basistech.m2e.code.quality.findbugs.feature.feature.group</iuId>
         <iuVersion>1.0.0.201307281919</iuVersion>
         <lifecycleMappingIU>
@@ -373,7 +373,7 @@
       <name>m2e connector for org.bitstrings.maven.plugins:dependencypath-maven-plugin</name>
       <provider>bitstrings.org - Pino Silvaggio</provider>
       <p2>
-        <repositoryUrl>http://bitstrings.github.com/m2e-connectors-p2/releases</repositoryUrl>
+        <repositoryUrl>http://bitstrings.github.io/m2e-connectors-p2/releases</repositoryUrl>
         <iuId>org.bitstrings.eclipse.m2e.connectors.dependencypath.feature.feature.group</iuId>
         <iuVersion>4.0.0.201408251917</iuVersion>
         <lifecycleMappingIU>
@@ -400,7 +400,7 @@
       <name>m2e connector for org.codehaus.mojo:jaxb2-maven-plugin and org.jvnet.jaxb2.maven2:maven-jaxb2-plugin</name>
       <provider>bitstrings.org - Pino Silvaggio</provider>
       <p2>
-        <repositoryUrl>http://bitstrings.github.com/m2e-connectors-p2/releases</repositoryUrl>
+        <repositoryUrl>http://bitstrings.github.io/m2e-connectors-p2/releases</repositoryUrl>
         <iuId>org.bitstrings.eclipse.m2e.connectors.jaxb2.feature.feature.group</iuId>
         <iuVersion>4.0.0.201408251917</iuVersion>
         <lifecycleMappingIU>
@@ -424,7 +424,7 @@
       <name>m2e connector for org.codehaus.mojo:xmlbeans-maven-plugin</name>
       <provider>bitstrings.org - Pino Silvaggio</provider>
       <p2>
-        <repositoryUrl>http://bitstrings.github.com/m2e-connectors-p2/releases</repositoryUrl>
+        <repositoryUrl>http://bitstrings.github.io/m2e-connectors-p2/releases</repositoryUrl>
         <iuId>org.bitstrings.eclipse.m2e.connectors.xmlbeans.feature.feature.group</iuId>
         <iuVersion>4.0.0.201408251917</iuVersion>
         <lifecycleMappingIU>
@@ -441,6 +441,7 @@
       initial https://bugs.eclipse.org/bugs/show_bug.cgi?id=353529
       version 0.4.0 https://bugs.eclipse.org/bugs/show_bug.cgi?id=363574
     -->
+<!-- 
     <catalogItem>
       <categoryId>org.eclipse.m2e.discovery.category.lifecycles</categoryId>
       <m2e-versions>1.4,1.5,1.6</m2e-versions>
@@ -473,6 +474,7 @@
         <url>http://rgladwell.github.com/m2e-android</url>
       </overview>
     </catalogItem>
+ -->
     <!-- https://bugs.eclipse.org/bugs/show_bug.cgi?id=357118 -->
     <!--
     <catalogItem>
@@ -931,6 +933,7 @@
         </catalogItem>
       <!-- m2e connector for org.codehaus.mojo:axistools-maven-plugin -->
       <!-- https://bugs.eclipse.org/bugs/show_bug.cgi?id=350909 -->
+<!-- 
     <catalogItem>
       <categoryId>org.eclipse.m2e.discovery.category.lifecycles</categoryId>
       <m2e-versions>1.4,1.5,1.6</m2e-versions>
@@ -953,6 +956,7 @@
         <url>https://github.com/theit/m2e-lifecycle-axistools</url>
       </overview>
     </catalogItem>
+ -->
 
     <catalogItem>
       <categoryId>org.eclipse.m2e.discovery.category.lifecycles</categoryId>
